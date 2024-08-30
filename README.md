@@ -4,5 +4,7 @@ Complete Fruits Selling Ecommerce Website using Reactjs + Tailwind css + Framer-
 
 Features:
          Responsive Complete Landing page.
+
          Modern animation with Framer-motion.
+         
          Fully responsive All pages( All device supported )
